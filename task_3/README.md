@@ -2,7 +2,9 @@
 
 ## Task
 
-    You have a dataset (internship_train.csv) that contains 53 anonymized features and a target column. Your task is to build model that predicts a target based on the proposed features. Please provide predictions for internship_hidden_test.csv file. Target metric is RMSE.
+    You have a dataset (internship_train.csv) that contains 53 anonymized features and a target column.  
+    Your task is to build model that predicts a target based on the proposed features.  
+    Please provide predictions for internship_hidden_test.csv file. Target metric is RMSE.
 
 ## Solution
 
@@ -11,9 +13,9 @@
         - code for modeling in Python3 (model.py);
         - predictions of the hidden test (predictions.csv).
         
-    * An analysis of the data was carried out with feature extraction and it was concluded that the main influence on the target variable has feature #6.
-    * In addition, data has many useless features, that need to be filtered and not included in the resulting model.
-    * The resulting model is based on a desision tree regressor that can capture non-linear relationships and filter out useless features.
+    - An analysis of the data was carried out with feature extraction and it was concluded that the main influence on the target variable has feature #6.
+    - In addition, data has many useless features, that need to be filtered and not included in the resulting model.
+    - The resulting model is based on a desision tree regressor that can capture non-linear relationships and filter out useless features.
 
 ## Installation and usage
 
