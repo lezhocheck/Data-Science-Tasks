@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+feed/
+masks/
+task_4/data/T36UXV_20200406T083559_TCI_10m.jp2
