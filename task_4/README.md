@@ -6,17 +6,20 @@
 
     What do you have
 
-    -	Sentinel2 tile (T36UXV_20200406T083559_TCI_10m.jp2);
-    -	Masks with soil erosion for this tile (masks directory);
+        -	Sentinel2 tile (T36UXV_20200406T083559_TCI_10m.jp2);
+        -	Masks with soil erosion for this tile (masks directory);
 
     What should we get
 
     As usual it should be github repository that contains:
-    -	jupyter notebook with data analysis;
-    -	script for model training (preferably tf.keras);
-    -	readme file;
-    -	requirements.txt file;
-    -	solution report. This is the most important part. We expect here not only solution description but also your proposals and result of research in different papers about soil erosion detection problem. In other words - what can help us to solve problem in the most effective way.
+        -	jupyter notebook with data analysis;
+        -	script for model training (preferably tf.keras);
+        -	readme file;
+        -	requirements.txt file;
+        -	solution report. This is the most important part.  
+        We expect here not only solution description but also your proposals and result of research  
+        in different papers about soil erosion detection problem. In other words - what can help us  
+        to solve problem in the most effective way.
 
 ## Solution
 
