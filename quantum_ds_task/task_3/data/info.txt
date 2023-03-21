@@ -1,5 +1,0 @@
-Copy the 
-	- internship_hidden_test.csv 
-	- internship_train.csv
-here. 
-Please, do not rename any of these files.
